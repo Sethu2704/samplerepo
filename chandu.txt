@@ -1,3 +1,7 @@
 i am chandu
+<<<<<<< HEAD
+i am studying B.tech civil eng
+=======
 i am studying B.tech civil
+>>>>>>> 3682115fa413f7d6c94200f93abdabde6e655df2
 i know english
